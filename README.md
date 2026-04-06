@@ -10,10 +10,10 @@ My background combines hands-on technical program management with practical AI p
 
 ## Featured Work
 
-- **[Preconstruction Intelligence Platform](https://github.com/tfrinehart27/Preconstruction-Intelligence-Platform)** — AI-assisted scope analysis for structural subcontractors. Document-first pipeline turning plan sets into bid-ready outputs.
-- **[Intelligent Operations Platform](https://github.com/tfrinehart27/Intelligent-Operations-Platform-ERP)** — Multi-tenant ERP for construction-adjacent businesses. Jobs, time, billing, documents, and AI document understanding in one system.
-- **[AI-Assisted Architecture Methodology](https://github.com/tfrinehart27/ai-assisted-architecture-methodology)** — A five-phase framework for using AI as a thinking partner in system design.
-- **[AI Architecture Case Study](https://github.com/tfrinehart27/ai-architecture-case-study)** — Architecture case study for an AI-powered document analysis platform.
+- **[Preconstruction Intelligence Platform](https://github.com/tfrinehart27/Preconstruction-Intelligence-Platform)** - AI-assisted scope analysis for structural subcontractors. Document-first pipeline turning plan sets into bid-ready outputs.
+- **[Intelligent Operations Platform](https://github.com/tfrinehart27/Intelligent-Operations-Platform-ERP)** - Multi-tenant ERP for construction-adjacent businesses. Jobs, time, billing, documents, and AI document understanding in one system.
+- **[AI-Assisted Architecture Methodology](https://github.com/tfrinehart27/ai-assisted-architecture-methodology)** - A five-phase framework for using AI as a thinking partner in system design.
+- **[AI Architecture Case Study](https://github.com/tfrinehart27/ai-architecture-case-study)** - Architecture case study for an AI-powered document analysis platform.
 
 ---
   
