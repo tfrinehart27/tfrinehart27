@@ -73,4 +73,4 @@ My production systems, client-specific work, and proprietary architectures are p
 
 📍 Colorado (Remote)  
 📧 tfrinehart27@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/travisrinehart)
+
