@@ -1,62 +1,76 @@
 # Travis Rinehart
 
-**I build AI-integrated systems for industries where generic software fails.**
+**Most software is designed around how teams think people work. I bridge the gap between what gets built and how it actually gets used.**
 
-My focus is on products that solve real operational problems across enterprise, SMB, government, defense, construction, and professional services. I don't just implement AI. I design how it fits into real workflows, how it fails gracefully, and how users actually interact with it in the field.
+I focus on AI-integrated products for industries where the tools have always lagged behind the people using them. Construction, defense, government, enterprise operations. The kind of environments where the end user has more domain expertise than the software does, and they've been working around it for years because nothing was built for them.
 
-My background combines hands-on technical program management with practical AI product development, including **evaluation frameworks, context engineering, structured data extraction**, and designing interfaces where non-deterministic AI output still produces reliable outcomes.
+My background is a mix of hands-on technical program management and AI product development. I've worked across evaluation frameworks, context engineering, structured data extraction, and the harder problem of designing interfaces where non-deterministic AI output still produces outcomes people can trust.
 
 ---
 
 ## Featured Work
 
-- **[Preconstruction Intelligence Platform](https://github.com/tfrinehart27/Preconstruction-Intelligence-Platform)** - AI-assisted scope analysis for structural subcontractors. Document-first pipeline turning plan sets into bid-ready outputs.
-- **[Intelligent Operations Platform](https://github.com/tfrinehart27/Intelligent-Operations-Platform-ERP)** - Multi-tenant ERP for construction-adjacent businesses. Jobs, time, billing, documents, and AI document understanding in one system.
-- **[AI-Assisted Architecture Methodology](https://github.com/tfrinehart27/ai-assisted-architecture-methodology)** - A five-phase framework for using AI as a thinking partner in system design.
-- **[AI Architecture Case Study](https://github.com/tfrinehart27/ai-architecture-case-study)** - Architecture case study for an AI-powered document analysis platform.
-
----
-  
-### How I Think About Users
-
-The best systems fail if they don't match how people actually work. I focus on the gap between **intended workflows and real user behavior** in the field. The person using the tool is often tired, in a hurry, doing three things at once, and has never read the documentation. That's not a problem to solve with better onboarding. That's the reality to design around.
-
-I tend to see friction before users encounter it. I naturally model how a system works and then how a person interacts with it. Where those don't align is where the product needs to be better. This comes from years of working in technical environments where **the gap between how something was designed and how it actually gets used** is the difference between a product that works and one that gets worked around.
+- **[Preconstruction Intelligence Platform](https://github.com/tfrinehart27/Preconstruction-Intelligence-Platform)** — AI-assisted scope analysis for structural subcontractors. Document-first pipeline turning plan sets into bid-ready outputs.
+- **[Intelligent Operations Platform](https://github.com/tfrinehart27/Intelligent-Operations-Platform-ERP)** — Multi-tenant ERP for construction-adjacent businesses. Jobs, time, billing, documents, and AI document understanding in one system.
+- **[AI-Assisted Architecture Methodology](https://github.com/tfrinehart27/ai-assisted-architecture-methodology)** — A five-phase framework for using AI as a thinking partner in system design.
+- **[AI Architecture Case Study](https://github.com/tfrinehart27/ai-architecture-case-study)** — Architecture case study for an AI-powered document analysis platform.
 
 ---
 
-### How I Build
+## How I Think About Users
 
-I own every architectural decision, every tradeoff, and every quality gate. I direct the build process from research through delivery, using AI as a tool in that process the same way an architect uses CAD. My process:
+The best systems fail if they don't match how people actually work. I pay attention to the gap between intended workflows and real behavior in the field. The person using the tool is often tired, in a hurry, doing three things at once, and has never read the documentation. That's not a problem to solve with better onboarding. That's the reality to design around.
 
-1. **Deep domain research.** Understand the problem space better than the people living in it.
-2. **Blueprint-first development.** Comprehensive architecture documents before any code is written. I treat these as living specifications that evolve through formal review passes rather than static plans.
-3. **Dual-AI review.** Independent architecture reviews from multiple AI models as reviewers, catching design flaws and blind spots before they become technical debt.
-4. **Adversarial testing.** Simulate real user workflows to stress-test designs before building.
-5. **Phased delivery.** Ship incrementally, validate with real users, iterate based on feedback.
-
-This methodology has produced production-grade blueprints spanning **50+ database tables, 18+ integrated modules**, and multi-phase build sequences with documented tradeoff analysis at every decision point. I'm actively documenting these frameworks as reusable methodologies for AI-assisted architecture and development.
+I tend to notice friction before it reaches the user. I naturally model how a system works and then how a person interacts with it. Where those don't align is where the product gets better. I bring that instinct to whatever team I'm on, not to fight existing decisions, but to catch the things that are easier to fix now than after launch.
 
 ---
 
-### Domain Expertise
+## How I Build
 
-- **Enterprise IT Solutions.** Storage, cybersecurity, disaster recovery, networking, cloud infrastructure.
-- **Government & Defense Procurement.** Federal proposals, TAA compliance, GSA schedules, sealed bid processes.
-- **Construction Technology.** Trade-specific workflows, estimating, job costing, and field operations.
-- **AI/LLM Integration.** Document intelligence, structured data extraction, and decision support systems.
+I own every architectural decision, every tradeoff, and every quality gate. I direct the build process from research through delivery, using AI as a tool in that process the same way an architect uses CAD.
 
----
-
-### What You Won't Find Here
-
-I protect my IP. My production systems, client-specific work, and proprietary architectures are private. What you will find are **methodologies, case studies, and frameworks** that demonstrate how I think and build without exposing what I've built.
+- **Deep domain research.** Spend real time understanding the problem space before proposing solutions.
+- **Blueprint-first development.** I lead with architecture and specification before building new systems or major features. Living documents that evolve through review, not static plans that get ignored.
+- **Structured architecture review.** Before building, I run every blueprint through independent review passes, each with a specific lens: structural integrity, adversarial user simulation, cost projection, schema validation, future-proofing, and liability. Findings get triaged, resolved, or documented as accepted tradeoffs. Nothing gets silently ignored.
+- **Adversarial testing.** Simulate real user workflows to stress-test designs before building.
+- **Phased delivery.** Ship incrementally, validate against real scenarios, iterate based on what you learn.
 
 ---
 
-### Connect
+## Domain
 
-I'm currently exploring opportunities in **technical program management, solutions architecture, product management, and AI operations**. I'm especially interested in teams building AI-integrated products for complex, underserved industries where understanding the user is the hardest part of the problem.
+**Industries**
+- Construction and specialty trades
+- Defense and aerospace
+- Government and public sector
+- Enterprise operations
 
-- **Email:** tfrinehart27@gmail.com
-- **Location:** Colorado (Remote)
+**Capabilities**
+- AI/LLM product integration (document intelligence, RAG, structured extraction, agentic workflows, decision support)
+- Product architecture and SaaS platform design (multi-tenant, RBAC, data modeling, API design)
+- Technical program management (phased delivery, specification writing, cross-functional coordination)
+- Federal and government procurement (proposals, TAA compliance, contract vehicles, SLED)
+- Enterprise infrastructure (storage, cybersecurity, networking, cloud, multi-vendor environments)
+- Supply chain and logistics coordination
+
+---
+
+## Tech
+
+Python · TypeScript · Next.js · React · FastAPI · PostgreSQL · Supabase · Redis · Docker · SQLAlchemy · Alembic · Pydantic · Tailwind CSS · ONNX · OCR · RAG · Embeddings · LLM APIs · Claude API · Prompt Engineering · Agentic AI · Celery · Playwright · Git
+
+---
+
+## What You Won't Find Here
+
+My production systems, client-specific work, and proprietary architectures are private. What you will find are methodologies, case studies, and portfolio documentation that demonstrate how I think and build, without exposing what I've built for production use.
+
+---
+
+## Connect
+
+**Currently open to full-time remote roles** in product management, technical program management, solutions architecture, and AI operations. I'm looking for teams building AI-integrated products where understanding the user is the hardest part of the problem, not the technology.
+
+📍 Colorado (Remote)  
+📧 tfrinehart27@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/travisrinehart)
